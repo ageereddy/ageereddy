@@ -4,7 +4,7 @@
 - 🌱 My passion lies in solving business problems with tailored data and algorithms, communicating complex ideas to non-technical stakeholders. I am able to jump across verticals      to deliver high-performing AI solutions.
 -  👀 I’m interested in Python Programming for Data Science Pandas, NumPy and love creating good looking graphs.
 - 💞️ I am a continuous learner, always pushing my boundaries to learn more. Passionate about technological reforms AI bringing upon and want to be a part of it.
-- 📫 How to reach me ...
+- 📫 Reach me: https://www.linkedin.com/in/amulyag/
 
 <!---
 ageereddy/ageereddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
